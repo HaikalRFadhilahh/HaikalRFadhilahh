@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello!,I am Haikal R Fadhilah as [Web Developper](https://haik.my.id)
+## About Me 
+- 💼 I’m currently working on Forum Asisten
+- 🌱 I’m currently learning React Js
+- 💬 Ask me about My life?
+- ⚡ Fun fact: I don't have a girlfriend
 
-<!--
-**HaikalRFadhilahh/HaikalRFadhilahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+### University Amikom Yogyakarta (2021 - Now)
+- S1 Informatika
+- Member Forum Asisten
+### SMA 1 Sedayu (2018 - 2021)
+- Science 3
+### SMP 1 Sedayu (2015 - 2018)
+- Osis
