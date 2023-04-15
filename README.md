@@ -13,3 +13,7 @@
 - Science 3
 ### SMP 1 Sedayu (2015 - 2018)
 - Osis
+
+<h2>Programming Tools</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="angular" width="40" height="40" style="display: block;"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="angular" width="40" height="40"/> 
