@@ -15,5 +15,8 @@
 - Osis
 
 <h2>Programming Tools</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="angular" width="40" height="40" style="display: block;"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="angular" width="40" height="40"/> 
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="" width="40" height="40"/> 
