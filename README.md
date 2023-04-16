@@ -10,9 +10,8 @@
 - S1 Informatika
 - Member Forum Asisten
 ### SMA 1 Sedayu (2018 - 2021)
-- Science 3
+- Science 
 ### SMP 1 Sedayu (2015 - 2018)
-- Osis
 
 <h2>Programming Tools</h2>
 <p align="left">
