@@ -1,4 +1,4 @@
-# Hello!,I am Haikal R Fadhilah as [Web Developper](https://haik.my.id)
+# Hello!,I am Haikal R Fadhilah 
 ## About Me 
 - 💼 I’m currently working on Forum Asisten
 - 🌱 I’m currently learning React Js
