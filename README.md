@@ -1,7 +1,7 @@
 # Hello!,I am Haikal R Fadhilah 
 ## About Me 
 - 💼 I’m currently working on Forum Asisten
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about My life?
 - ⚡ Fun fact: I don't have a girlfriend
 
