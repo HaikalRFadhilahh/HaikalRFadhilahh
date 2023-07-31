@@ -21,6 +21,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="" width="40" height="40"/> 
 <img src="https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/main/images/docker.png" alt="" width="40" height="40"/> 
 </p>
-
-## Snake Github Contributions Animation
-![Snake animation](https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/output/github-contribution-grid-snake.svg)
