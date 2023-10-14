@@ -1,7 +1,7 @@
 # Hello!,I am Haikal R Fadhilah as DevOps
 ## About Me 
 - 💼 I’m currently working on Forum Asisten
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning Jenkins
 - 💬 Ask me about My life?
 - ⚡ Fun fact: I don't have a girlfriend
 
