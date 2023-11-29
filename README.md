@@ -26,5 +26,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="" width="40" height="40"/> 
 <img src="https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/main/images/docker.png" alt="" width="40" height="40"/> 
 <img src="https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/main/images/jenkins.png" alt="" width="32" height="40"/> 
-<img src="https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/main/images/kubernetes.png" alt="" width="40" height="40"/> 
+<img src="https://github.com/HaikalRFadhilahh/HaikalRFadhilahh/blob/main/images/kubenertes.png" alt="" width="40" height="40"/> 
 </p>
