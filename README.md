@@ -3,7 +3,7 @@
 ## About Me
 
 - 💼 I’m currently working on Forum Asisten
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about My life?
 - ⚡ Fun fact: I don't have a girlfriend
 
