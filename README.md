@@ -11,14 +11,8 @@
 
 ### University Amikom Yogyakarta (2021 - Now)
 
-- S1 Informatika
+- S1 Computer Science
 - IT Support Forum Asisten
-
-### SMA 1 Sedayu (2018 - 2021)
-
-- Science
-
-### SMP 1 Sedayu (2015 - 2018)
 
 <h2>Programming Tools</h2>
 <p align="left">
