@@ -1,9 +1,9 @@
-# Hello!,I am Haikal R Fadhilah as DevOps
+# Hello!,I am Haikal R Fadhilah as DevOps Engineer
 
 ## About Me
 
 - 💼 I’m currently working on Forum Asisten
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning ArgoCD
 - 💬 Ask me about My life?
 - ⚡ Fun fact: I don't have a girlfriend
 
